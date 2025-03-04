@@ -10,7 +10,7 @@ public class TemperatureConverter {
         return (fahrenheit - 32) * 5/9;
     }
 
-    public String newMethod(){
-        return "New Method";
+    public String newMethod(){// demo changes in class for midterm by shanee
+        return "New method updated";
     }
 }
