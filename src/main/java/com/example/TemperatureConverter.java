@@ -11,6 +11,6 @@ public class TemperatureConverter {
     }
 
     public String newMethod(){// demo changes in class for midterm by shanee
-        return "New method updated";
+        return "New method updated.";
     }
 }
